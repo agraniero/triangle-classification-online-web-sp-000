@@ -1,6 +1,6 @@
 class Triangle
   
-  def initialize
+  def initialize()
     
   end
   
