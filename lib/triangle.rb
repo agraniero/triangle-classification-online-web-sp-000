@@ -1,5 +1,5 @@
 class Triangle
   
-  def initialize(args*)
+  def initialize()
   
 end
