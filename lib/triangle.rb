@@ -18,6 +18,11 @@ class Triangle
     end
   end
   
+  def legit_triangle
+    proper_t = [(side1 + side2 > side3),]
+    
+  end
+  
   class TriangleError < StandardError
   end
 end
